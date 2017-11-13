@@ -1,0 +1,33 @@
+{
+    "hash":"0x2891cc05fe561fa3ba66441ddb8cc2f306a1f459",
+    "entrypoint":"Main",
+    "functions":
+    [
+        {
+            "name":"Main",
+            "returntype":"Boolean",
+            "paramaters":
+            [
+                {
+                    "name":"sign",
+                    "type":"ByteArray"
+                },
+                {
+                    "name":"pubkey",
+                    "type":"ByteArray"
+                },
+                {
+                    "name":"key",
+                    "type":"ByteArray"
+                },
+                {
+                    "name":"value",
+                    "type":"ByteArray"
+                }
+            ]
+        }
+    ],
+    "events":
+    [
+    ]
+}

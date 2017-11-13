@@ -1,0 +1,16 @@
+﻿<Window x:Class="NeoMicroBlog.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NeoMicroBlog"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label01" Content="http://seed1.neo.org:20332" HorizontalAlignment="Left" Margin="125,24,0,0" VerticalAlignment="Top"/>
+        <Button Content="检查高度" HorizontalAlignment="Left" Margin="125,54,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="检查合约信息" HorizontalAlignment="Left" Margin="125,111,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <TextBox x:Name="textScript" HorizontalAlignment="Left" Height="23" Margin="125,78,0,0" TextWrapping="Wrap" Text="8a4d2865d01ec8e6add72e3dfdd20c12f44834e3" VerticalAlignment="Top" Width="310"/>
+
+    </Grid>
+</Window>
