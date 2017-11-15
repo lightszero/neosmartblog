@@ -10,7 +10,7 @@
         <Label x:Name="label01" Content="http://seed1.neo.org:20332" HorizontalAlignment="Left" Margin="125,24,0,0" VerticalAlignment="Top"/>
         <Button Content="检查高度" HorizontalAlignment="Left" Margin="125,54,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
         <Button Content="检查合约信息" HorizontalAlignment="Left" Margin="125,111,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
-        <TextBox x:Name="textScript" HorizontalAlignment="Left" Height="23" Margin="125,78,0,0" TextWrapping="Wrap" Text="8a4d2865d01ec8e6add72e3dfdd20c12f44834e3" VerticalAlignment="Top" Width="310"/>
+        <TextBox x:Name="textScript" HorizontalAlignment="Left" Height="23" Margin="125,78,0,0" TextWrapping="Wrap" Text="0x2891cc05fe561fa3ba66441ddb8cc2f306a1f459" VerticalAlignment="Top" Width="310"/>
 
     </Grid>
 </Window>

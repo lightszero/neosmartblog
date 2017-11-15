@@ -1,7 +1,0 @@
-c:\users\light\documents\visual studio 2017\Projects\NeoSmartBlog_Contract\NeoSmartBlog_Contract\bin\Debug\NeoSmartBlog_Contract.dll
-c:\users\light\documents\visual studio 2017\Projects\NeoSmartBlog_Contract\NeoSmartBlog_Contract\bin\Debug\NeoSmartBlog_Contract.pdb
-c:\users\light\documents\visual studio 2017\Projects\NeoSmartBlog_Contract\NeoSmartBlog_Contract\bin\Debug\Neo.SmartContract.Framework.dll
-c:\users\light\documents\visual studio 2017\Projects\NeoSmartBlog_Contract\NeoSmartBlog_Contract\obj\Debug\NeoSmartBlog_Contract.csproj.CoreCompileInputs.cache
-c:\users\light\documents\visual studio 2017\Projects\NeoSmartBlog_Contract\NeoSmartBlog_Contract\obj\Debug\NeoSmartBlog_Contract.dll
-c:\users\light\documents\visual studio 2017\Projects\NeoSmartBlog_Contract\NeoSmartBlog_Contract\obj\Debug\NeoSmartBlog_Contract.pdb
-C:\Users\light\documents\visual studio 2017\Projects\NeoSmartBlog_Contract\NeoSmartBlog_Contract\obj\Debug\NeoSmartBlog_Contract.csprojResolveAssemblyReference.cache
